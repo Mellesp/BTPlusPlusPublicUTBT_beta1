@@ -1,7 +1,8 @@
 # BTPlusPlusPublicUTBT_beta1
 BT++ Public Edition UTBT beta 1
 
-Placeholder version until we finished the UTBT mod 
+Placeholder version until we finished the UTBT mod.
+![Alt Text](https://cdn.discordapp.com/attachments/957014665987260466/957710290697453629/UTBT_Public_beta3.gif)
 
 ### Installation
 ```
